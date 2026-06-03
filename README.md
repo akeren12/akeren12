@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Aksa 👋
 
-<!--
-**akeren12/akeren12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Development Intern
 
-Here are some ideas to get you started:
+I'm currently building backend and AI-powered applications using Python, Django, Django REST Framework, Supabase, and modern deployment tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Currently Learning
+
+* Django & Django REST Framework
+* PostgreSQL & Supabase
+* AI Integration (OpenAI & Claude APIs)
+* Railway Deployment
+* Backend System Design
+
+#### Tech Stack
+
+* Python
+* Django
+* Django REST Framework
+* Git & GitHub
+* PostgreSQL
+* Supabase
+* REST APIs
+
+#### Goals
+
+* Build production-ready backend systems
+* Integrate AI features into real-world applications
+* Strengthen software engineering and deployment skills
